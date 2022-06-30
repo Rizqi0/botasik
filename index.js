@@ -156,4 +156,4 @@ function play(guild, song) {
 }
 
 
-client.login("ODUwMjk3Mjg2OTE0MjExODYw.G6emSD.jRwPgH9Hb1jyIxHorz3hY4qhCZwnS7BNmh_0dg")
+client.login("")
